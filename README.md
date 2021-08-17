@@ -7,4 +7,5 @@ main python functionalities and Libraries used:
 
 I gained experience in an essential data science skill — exploratory data analysis. This will allow me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data. 
 plot no. 1:
-![Alt text]("C:/Users/salsa/Pictures/plot1.png"?raw=true "Plot 1")
+![plot1](https://user-images.githubusercontent.com/60573989/129726890-b018d332-5f8d-47c8-90b0-f41ceca77b53.png)
+
