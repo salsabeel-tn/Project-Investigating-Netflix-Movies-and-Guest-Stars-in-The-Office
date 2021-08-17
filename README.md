@@ -6,3 +6,5 @@ main python functionalities and Libraries used:
 3) matplolib  for data visualization.<br>
 
 I gained experience in an essential data science skill — exploratory data analysis. This will allow me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data. 
+plot no. 1:
+![Alt text]("C:/Users/salsa/Pictures/plot1.png"?raw=true "Plot 1")
