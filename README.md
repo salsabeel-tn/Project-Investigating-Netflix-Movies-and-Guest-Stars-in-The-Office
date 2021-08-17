@@ -5,7 +5,7 @@ main python functionalities and Libraries used:
 2) pandas dataframes and pd victorization methods.<br>
 3) matplolib  for data visualization.<br>
 
-I gained experience in an essential data science skill — exploratory data analysis. This will allow me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data. <br>
+I gained experience in an essential data science skill — exploratory data analysis. This will allow me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data. <br><br>
 Upon running the code on your Jupyter notebook/IDE, you should be able to see the following plots:
  ## plot no. 1: <br> <br>
 ![plot1](https://user-images.githubusercontent.com/60573989/129726890-b018d332-5f8d-47c8-90b0-f41ceca77b53.png) <br> <br>
