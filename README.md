@@ -12,5 +12,5 @@ Upon running the code on your Jupyter notebook/IDE, you should be able to see th
 ## plot no. 2: <br><br>
 ![plot2](https://user-images.githubusercontent.com/60573989/129727279-959e92d0-6fc4-4e72-bcdf-05153ab377f6.png)
 ## plot no. 3: <br><br>
-
+Same as plot 2, different genres are demonestrated with different colors here.<br>
 ![plot3](https://user-images.githubusercontent.com/60573989/129727324-8b4416a1-9c5b-4402-bb1f-653d8681c994.png)
