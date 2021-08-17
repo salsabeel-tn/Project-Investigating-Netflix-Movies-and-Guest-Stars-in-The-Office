@@ -85,4 +85,4 @@ plt.ylabel("Duration (min)")
 # Show the plot
 plt.show()
 
-#the last scatter plot shows that we are certain about whether movies duration gets shorter by time.
+#the last scatter plot shows that we are not certain about whether movies duration gets shorter by time.
