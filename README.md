@@ -1,6 +1,6 @@
 ## Project Description
 In this project I put into use the skills I gained to collect and analyse Netflix movies .csv data files  and check if the avarege duration of movies is decreasing by time, this project will also determine which guest stars appear in the most popular episode of "The Office" TV show.
-main python functionalities and Libraries used:
+main python functionalities and Libraries used:<br>
 1)loops, lists, dictionaries.<br>
 2) pandas dataframes and pd victorization methods.<br>
 3) matplolib  for data visualization.<br>
